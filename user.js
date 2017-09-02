@@ -9,6 +9,7 @@
 // @include      https://www.di.fm/*
 // @author       Mental-NV (Ruslan Galiev)
 // @match        http://www.di.fm/*
+// @downloadURL  https://raw.githubusercontent.com/Mental-NV/AdsRemoved/master/user.js
 // @icon         http://i.imgur.com/7yj2PGY.png
 // @grant        none
 // ==/UserScript==
